@@ -17,5 +17,3 @@ class ProyectoScrapyItem(scrapy.Item):
     stock= scrapy.Field()
     descripcion= scrapy.Field()
     codigo= scrapy.Field()
-    
-    pass
